@@ -1,2 +1,4 @@
 # primeiro-projeto
-Um repositório de teste
+
+
+Eu sou um estudante de programação e da vida rs 
